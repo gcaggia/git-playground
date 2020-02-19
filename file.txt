@@ -15,3 +15,4 @@ branch-f5 feature 1
 branch-f5 feature 2
 
 branch-f6 feature 1
+branch-f6 feature 2
