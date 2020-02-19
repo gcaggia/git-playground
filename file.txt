@@ -5,4 +5,5 @@ feature 1c
 feature 2a
 feature 2b
 
-from branch-f3 f1a
+from branch-f3 g1
+from branch-f3 g2
