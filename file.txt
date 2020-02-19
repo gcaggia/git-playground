@@ -9,3 +9,4 @@ from branch-f3 g1
 from branch-f3 g2
 
 from branch-f3 g3
+from branch-f3 g4
